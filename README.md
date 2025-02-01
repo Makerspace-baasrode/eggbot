@@ -26,10 +26,12 @@ this project is a make over of the [Eval Mad Scientists](https://shop.evilmadsci
 - [Eggcup holders for SphereBot / Completely Printable Eggbot](https://www.thingiverse.com/thing:13960)
 - [Completely printable Egg-drawer](https://www.thingiverse.com/thing:7988)
 - [Finucane Derivative Eggbot](https://www.thingiverse.com/thing:65753)
+
 ###Drawing
 - [StippleGen](https://wiki.evilmadscientist.com/StippleGen)
 - [StippleGen: Weighted Voronoi](https://www.evilmadscientist.com/2012/stipplegen-weighted-voronoi-stippling-and-tsp-paths-in-processing/)
-- [code and designs](https://github.com/davidbliss/eggbot
+- [code and designs](https://github.com/davidbliss/eggbot)
+
 ###Software
 - [SphereBotSenderProcessing](https://github.com/zaggo/SphereBotSenderProcessing)
 - [Eggduino](https://github.com/cocktailyogi/EggDuino/)
