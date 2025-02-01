@@ -22,6 +22,7 @@ this project is a make over of the [Eval Mad Scientists](https://shop.evilmadsci
 ### 3D prints
 - [Enhanced penholder for SphereBot](https://www.thingiverse.com/thing:13407)
 - [Laser Cut Sphere-o-bot](https://www.thingiverse.com/thing:368403#files)
+- [Laser Cut Sphere-o-bot Instructables](https://www.instructables.com/Laser-Cut-Sphere-O-Bot/)
 - [Fischer Technik Eggbot](https://www.thingiverse.com/thing:8109)
 - [Eggcup holders for SphereBot / Completely Printable Eggbot](https://www.thingiverse.com/thing:13960)
 - [Completely printable Egg-drawer](https://www.thingiverse.com/thing:7988)
