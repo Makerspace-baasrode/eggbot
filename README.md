@@ -13,5 +13,5 @@ If there is any suggestion to organize it differently please let me know
 
 ## original project
 
-this project is a make over of the [Eval Mad Scientists](https://hackaday.com/2019/04/17/what-can-you-learn-from-an-eggbot/) eggbot project. All credits go to them as the originator of the ideas.
+this project is a make over of the [Eval Mad Scientists](https://shop.evilmadscientist.com/productsmenu/766) eggbot project. All credits go to them as the originators of the ideas. (https://hackaday.com/2019/04/17/what-can-you-learn-from-an-eggbot/)
 
