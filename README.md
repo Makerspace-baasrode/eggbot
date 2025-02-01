@@ -19,7 +19,7 @@ this project is a make over of the [Eval Mad Scientists](https://shop.evilmadsci
 ### The original
 - [The Original Egg-Bot Kit](https://wiki.evilmadscientist.com/The_Original_Egg-Bot_Kit)
 
-###3D prints
+### 3D prints
 - [Enhanced penholder for SphereBot](https://www.thingiverse.com/thing:13407)
 - [Laser Cut Sphere-o-bot](https://www.thingiverse.com/thing:368403#files)
 - [Fischer Technik Eggbot](https://www.thingiverse.com/thing:8109)
@@ -27,12 +27,12 @@ this project is a make over of the [Eval Mad Scientists](https://shop.evilmadsci
 - [Completely printable Egg-drawer](https://www.thingiverse.com/thing:7988)
 - [Finucane Derivative Eggbot](https://www.thingiverse.com/thing:65753)
 
-###Drawing
+### Drawing
 - [StippleGen](https://wiki.evilmadscientist.com/StippleGen)
 - [StippleGen: Weighted Voronoi](https://www.evilmadscientist.com/2012/stipplegen-weighted-voronoi-stippling-and-tsp-paths-in-processing/)
 - [code and designs](https://github.com/davidbliss/eggbot)
 
-###Software
+### Software
 - [SphereBotSenderProcessing](https://github.com/zaggo/SphereBotSenderProcessing)
 - [Eggduino](https://github.com/cocktailyogi/EggDuino/)
 - [Eggbotsimulator](https://github.com/gabber1/EggbotSimulator)
