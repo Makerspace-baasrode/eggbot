@@ -5,6 +5,9 @@ you still have options to select some of the items. eg. the stepper driver can b
 Cap nuts are included since I like the look of them, but they can be replaced by just normal nuts if you want
 O-ring is just and example, if you have 3mm thick o-ring cord you can make them yourself.
 The sidepanel can be 3D printed or can be lasercut in acrilyc. That is up to you. The PCB has the same form factor as the sidepanel and can replace 1 of the side panels. If you choose to do so you only need 2 side panels. If you don't like the idea you have to have 3 side panels and an additional 3x M8-nuts
+The bearinghouses can be equiped with M4 inserts instead of using standard M4 nuts. This is not in the 3D STL file yet, but if you opt to do so then 8 M4 inserts are needed.
+Also the pendrive could be equiped with M4 inserts. Again not in the STL files yet.
+
 
 The links in the table are just examples no endorsment from my part. They can help you start looking for things. (I have no affiliation with Amazon at all, but it comes handy to show what is needed)
 
