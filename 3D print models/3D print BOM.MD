@@ -1,5 +1,6 @@
 ## What do you need to print :
 
++-----+----------+
 | Qty | filename |
 +-----+----------+
 | 1x | bearing house M6 inserts V3 |
@@ -16,6 +17,7 @@
 
 The side panel can be laser cut or 3D printed. If a laser cutter is available I would go for the acrylic laser cut.
 
++-----+----------+
 | Qty | filename |
 +-----+----------+
 | 2x | sidepanel V2.dxf laser cut |
